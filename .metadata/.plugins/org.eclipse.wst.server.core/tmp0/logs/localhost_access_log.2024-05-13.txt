@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/May/2024:14:24:39 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [13/May/2024:14:24:42 +0100] "GET /web_app_tp08_tomcat/ClientWebEJBTomcat HTTP/1.1" 500 50
+0:0:0:0:0:0:0:1 - - [13/May/2024:14:25:09 +0100] "GET /web_app_tp08_tomcat/ClientWebEJBTomcat HTTP/1.1" 500 50
+0:0:0:0:0:0:0:1 - - [13/May/2024:14:25:58 +0100] "GET /web_app_tp08_tomcat/ClientWebEJBTomcat HTTP/1.1" 200 179

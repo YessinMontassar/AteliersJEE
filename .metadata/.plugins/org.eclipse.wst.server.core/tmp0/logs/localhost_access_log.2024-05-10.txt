@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/May/2024:17:07:48 +0100] "GET / HTTP/1.1" 404 681
+127.0.0.1 - - [10/May/2024:17:07:49 +0100] "GET /web_app_tp01/connexion.html HTTP/1.1" 200 586
+127.0.0.1 - - [10/May/2024:17:09:12 +0100] "GET /Activite_1.3_TP1/Connexion.html HTTP/1.1" 200 4667
+127.0.0.1 - - [10/May/2024:17:09:12 +0100] "GET /Activite_1.3_TP1/style.css HTTP/1.1" 200 3095
+0:0:0:0:0:0:0:1 - - [10/May/2024:17:09:23 +0100] "GET /Activite_1.3_TP1/Connexion.html HTTP/1.1" 200 4667
+0:0:0:0:0:0:0:1 - - [10/May/2024:17:09:23 +0100] "GET /Activite_1.3_TP1/style.css HTTP/1.1" 200 3095
+0:0:0:0:0:0:0:1 - - [10/May/2024:17:09:23 +0100] "GET /favicon.ico HTTP/1.1" 404 692
+127.0.0.1 - - [10/May/2024:17:53:23 +0100] "GET / HTTP/1.1" 404 681
+127.0.0.1 - - [10/May/2024:17:53:23 +0100] "GET /web_app_tp02/accueil.jsp HTTP/1.1" 200 737
+127.0.0.1 - - [10/May/2024:17:53:24 +0100] "GET /web_app_tp02/css/style.css HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [10/May/2024:18:07:32 +0100] "POST /Activite_1.3_TP1/Connexion HTTP/1.1" 200 44

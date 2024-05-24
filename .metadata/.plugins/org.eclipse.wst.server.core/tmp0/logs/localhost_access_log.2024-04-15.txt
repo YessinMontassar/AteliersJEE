@@ -1,0 +1,15 @@
+127.0.0.1 - - [15/Apr/2024:15:40:48 +0100] "GET / HTTP/1.1" 404 681
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:40:49 +0100] "GET /Activite_3.1_TP3/ListProduits.jsp HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:40:53 +0100] "POST /Activite_3.1_TP3/Panier HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:40:53 +0100] "GET /Activite_3.1_TP3/Afficher.jsp HTTP/1.1" 200 431
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:40:59 +0100] "POST /Activite_3.1_TP3/ListProduits.jsp HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:02 +0100] "POST /Activite_3.1_TP3/Panier HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:02 +0100] "GET /Activite_3.1_TP3/Afficher.jsp HTTP/1.1" 200 452
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:05 +0100] "POST /Activite_3.1_TP3/ListProduits.jsp HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:08 +0100] "POST /Activite_3.1_TP3/Panier HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:08 +0100] "GET /Activite_3.1_TP3/Afficher.jsp HTTP/1.1" 200 468
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:17 +0100] "GET /Activite_3.1_TP3/Panier HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:17 +0100] "GET /Activite_3.1_TP3/Deconnexion.jsp HTTP/1.1" 200 241
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:21 +0100] "GET /Activite_3.1_TP3/ListProduits.jsp HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:24 +0100] "POST /Activite_3.1_TP3/Panier HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Apr/2024:15:41:24 +0100] "GET /Activite_3.1_TP3/Afficher.jsp HTTP/1.1" 200 439

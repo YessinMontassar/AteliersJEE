@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1112489829.index
+\web_app_tp03\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\920114922.index
+\web_app_tp04\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\870161259.index
+\web_app_tp08\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2848681915.index
+\Activite_3.1_TP3\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3656020746.index
+\web_app_tp02\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\812806313.index
+\Web_MiniProjet_JEE\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2826491652.index
+\web_app_tp09\src
+D:\Semestre2\Atelier_JEE\WorkSpaces\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\382951639.index
+\web_app_tp04_bis\src
